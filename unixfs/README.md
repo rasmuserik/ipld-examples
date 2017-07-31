@@ -2,7 +2,7 @@
 
 [This is an example to exercise IPLD](../).
 
-[unixfs](//github.com/ipfs/spcs/tree/master/unixfs) is a datastructure for representing unix filesystems. Think of it like "files on IPFS". It aims to support basic unix and posix files, as well as all the extended attributes (xattr, etc).
+[unixfs](//github.com/ipfs/specs/tree/master/unixfs) is a datastructure for representing unix filesystems. Think of it like "files on IPFS". It aims to support basic unix and posix files, as well as all the extended attributes (xattr, etc).
 
 ## Spec
 
